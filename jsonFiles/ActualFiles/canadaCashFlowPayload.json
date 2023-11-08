@@ -1,0 +1,1 @@
+{"columns":["description","cash_f_operating_activities_ttm","fundamental_currency_code","cash_f_investing_activities_ttm","cash_f_financing_activities_ttm","free_cash_flow_ttm","capital_expenditures_ttm"],"ignore_unknown_fields":false,"options":{"lang":"en"},"range":[0,100],"sort":{"sortBy":"market_cap_basic","sortOrder":"desc","nullsFirst":false},"preset":"large_cap"}
